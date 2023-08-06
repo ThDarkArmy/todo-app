@@ -1,0 +1,1 @@
+export const SWAGGER_AUTH_SECURITY_SCHEMA = 'jwt'
